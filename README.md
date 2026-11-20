@@ -3,16 +3,6 @@
 Visualizzatori 3D interattivi di grafite, diamante, grafene, nanotubi di carbonio e fullereni.
 Sito statico (HTML, CSS, JavaScript): nessuna libreria esterna, nessun servizio a pagamento.
 
-## Pubblicazione su GitHub Pages
-
-1. Su GitHub crea un repository **pubblico** chiamato `modelli-3d` nell'account `nisassi`.
-2. Carica in questo repository il contenuto di questa cartella (il file `README.md` e la cartella `docs/`).
-   Dalla pagina del repository: *Add file → Upload files*, trascina `docs` e `README.md`, poi *Commit changes*.
-3. Vai in *Settings → Pages*. In *Build and deployment* scegli *Source: Deploy from a branch*,
-   *Branch: main*, cartella **/docs**, poi *Save*.
-4. Dopo 1–2 minuti il sito è raggiungibile a:
-   `https://nisassi.github.io/modelli-3d/`
-
 Indirizzi dei visualizzatori (quelli usati nei pulsanti della presentazione):
 
 - https://nisassi.github.io/modelli-3d/grafite.html
